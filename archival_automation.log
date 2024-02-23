@@ -1,0 +1,5 @@
+2024-02-23 14:33:29,687 - INFO - START archival_automation =============================================
+2024-02-23 14:33:29,687 - INFO - START archival_automation Start Time = 2024-02-23 14:33:29
+2024-02-23 14:33:29,687 - INFO - archival_automation Step 0 - Initialize the configuration file parser
+2024-02-23 14:33:29,808 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-02-23 14:33:29,808 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'
