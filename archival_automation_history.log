@@ -1,3 +1,5 @@
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 2024-02-23 14:37:18,644 - INFO - START archival_automation =============================================
 2024-02-23 14:37:18,644 - INFO - START archival_automation Start Time = 2024-02-23 14:37:18
 2024-02-23 14:37:18,644 - INFO - archival_automation Step 0 - Initialize the configuration file parser
@@ -11,3 +13,6 @@
 2024-02-23 14:37:37,594 - INFO - PERFORMANCE archival_automation Low process duration less than 3 minutes:18.95
 2024-02-23 14:37:37,594 - INFO - PERFORMANCE archival_automation Performance optimization is optional
 2024-02-23 14:37:37,594 - INFO - END archival_automation =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
