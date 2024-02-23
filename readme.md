@@ -6,13 +6,13 @@
 
 Welcome to the ** Archival Automation ** repository! This solutions how to archive !!!   
 
-![Code Logo](correlation_heatmap.png)
+![Code Logo](code.png)
 
 ## NOTE - THIS REPOSITORY WORK IN PROGRESS 
 
 The are many ways to do this. It isnt perfect !!! so Experiment. Branch it, configure it, and Change it. 
 
-![Code Logo](correlation_heatmap_example.png)
+![Code Logo](automated_archival.png)
 
 ## Features
 
