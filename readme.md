@@ -46,4 +46,7 @@ To get started with the **Archival Automation** solution repository, follow thes
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](archival_automation.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+    
+## Deliverables or Figures
+ ![additional_image](archival_automation.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+    
