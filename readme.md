@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Archival Automation - Archival Automation automatically backs up your data and puts a archive  stamp on it.
 Archival Automation automatically backs up your data and puts a archive  stamp on it.
 
@@ -9,8 +11,6 @@ Welcome to the solution **Archival Automation** - an example for your projects
 Archival Automation automatically backs up your data and puts a archive  stamp on it.
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
