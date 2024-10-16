@@ -39,11 +39,8 @@ To get started with the **Archival Automation** solution repository, follow thes
  ![additional_image](archival_automation.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
