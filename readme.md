@@ -1,6 +1,9 @@
 ![Image image_filename](solution_sign.png)
-    # Archival Automation 
-    ## Archival Automation automatically backs up your data and puts a archive  stamp on it.
+    
+# Archival Automation 
+
+## Archival Automation automatically backs up your data and puts a archive  stamp on it.
+
     ![Image image_filename](code.png)
 Welcome to the solution **Archival Automation** - an example for your projects
 
@@ -25,9 +28,9 @@ To get started with the **Archival Automation** solution repository, follow thes
 - Saves You Time 
 
 
-## Notebook Features
+## Code Features
 
-These Features are design to provide everything you need for **Knowledge Transfer** 
+These features are designed to provide everything you need for **Archival Automation** 
 
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
@@ -37,6 +40,7 @@ These Features are design to provide everything you need for **Knowledge Transfe
 - **Self Debugging** - Enhanced python standard debugging
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
+
     
 ## List of Figures
  ![additional_image](archival_automation.png)  <br>
