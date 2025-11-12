@@ -4,21 +4,11 @@
 
 ## Archival Automation automatically backs up your data and puts a archive  stamp on it.
 
-    
-![Solution](code.png)
-
-    
-
-Welcome to the solution **Archival Automation** - an example for your projects
+    ![Image image_filename](code.png)
+Welcome to the solution **Archival Automation** 
 
 Archival Automation automatically backs up your data and puts a archive  stamp on it.
-
-![Solution](code.png)
-
-    
-![Solution](code.png)
-
-    
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
